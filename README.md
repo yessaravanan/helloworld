@@ -1,1 +1,1 @@
-# helloworld - A Class project for Beginers !
+# helloworld - A Class project for dummies !
